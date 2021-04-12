@@ -58,7 +58,7 @@
     "agenda": "~1.0.3",
     "async": "~2.6.1",
     "autolinker": "~1.7.1",
-    "autoprefixer": "~9.1.1",
+    "autoprefixer": "~10.0.0",
     "basic-auth": "~2.0.0",
     "body-parser": "~1.18.3",
     "bower": "~1.8.4",
