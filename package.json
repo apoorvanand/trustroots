@@ -83,7 +83,7 @@
     "gm": "~1.23.1",
     "gulp": "~4.0.0",
     "gulp-angular-templatecache": "~2.2.1",
-    "gulp-autoprefixer": "~5.0.0",
+    "gulp-autoprefixer": "~6.0.0",
     "gulp-concat": "~2.6.0",
     "gulp-csso": "~3.0.1",
     "gulp-eslint": "~5.0.0",
